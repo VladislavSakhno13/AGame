@@ -12,7 +12,7 @@ import MenuItem from "@mui/material/MenuItem";
 import theme from "./TopBarStyles";
 import MenuIcon from "@mui/icons-material/Menu";
 import { useState } from "react";
-const pages = ["Products", "Pricing", "Blog"];
+const pages = ["Product", "Pricing", "Blog"];
 const settings = ["Profile", "Account", "Dashboard", "Logout"];
 
 const TopBar = () => {
