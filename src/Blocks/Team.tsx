@@ -4,7 +4,7 @@ export const Team = () => {
     <Grid container style={{ border: "1px solid red", height: "500px" }}>
       {" "}
       <Grid item xs={12} style={{ display: "flex", justifyContent: "center" }}>
-        <Typography>Teams</Typography>
+        <Typography>Team</Typography>
       </Grid>
     </Grid>
   );
